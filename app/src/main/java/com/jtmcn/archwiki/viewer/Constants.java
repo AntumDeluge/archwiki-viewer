@@ -10,8 +10,8 @@ public class Constants {
 	public static final String UTF_8 = "UTF-8";
 
 	//arch wiki urls
-	public static final String ARCHWIKI_BASE = "https://wiki.archlinux.org/";
-	public static final String ARCHWIKI_MAIN = ARCHWIKI_BASE + "index.php/Main_page";
+	public static final String ARCHWIKI_BASE = "https://stendhalgame.org/wiki";
+	public static final String ARCHWIKI_MAIN = ARCHWIKI_BASE + "/Stendhal";
 	public static final String ARCHWIKI_SEARCH_URL = ARCHWIKI_BASE + "index.php?&search=%s";
 
 	//local file paths
